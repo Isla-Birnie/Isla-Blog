@@ -4,6 +4,7 @@ title:  "How My Life Came to Be"
 author: isla
 categories: [ autobiographical ]
 image: assets/images/isla.jpg
+featured: true
 ---
 
 <em>Hi!!!</em> My name is Isla Birnie! I have lived on a boat for the past four years (as of 2024), a third of my life! In this post, I intend to explain how all this came to be.
