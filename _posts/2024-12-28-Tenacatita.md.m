@@ -3,7 +3,7 @@ layout: post
 title:  "My Favorite Anchorage"
 author: isla
 categories: [ autobiographical ]
-image: assets/images/16.jpg
+image: assets/images/tenacatita.jpg
 ---
 
 Hello! How are you doing on this lovely winter day? I, for one, am having a great season. We have friends in the anchorage and all is well. Except… it hasn’t always been that way. 
