@@ -9,7 +9,7 @@ comments: true
 
 Hello! How are you doing on this lovely winter day? I, for one, am having a great season. We have friends in the anchorage and all is well. Except… it hasn’t always been that way. 
 
-For the past two years we have gone South fairly fast. Usually we’re in Manzanillo by early November. But this year… that didn’t happen. It took us way longer this year though. By late December, we still hadn’t arrived at my favorite anchorage. Tenacatita! 
+For the past two years we have gone South fairly fast. Usually we’re in Manzanillo by early November. But this year… that didn’t happen. It took us way longer this year though. By late December, we still hadn’t arrived at my favorite anchorage. Tenacatita!
 
 Tenacatita has an amazing, welcoming cruiser community that I haven’t found in any other place. It’s fairly remote, the closest town being Barra de Navidad,  about three hours away (by boat). Tenacatita even has an unofficial cruiser mayor.
 
