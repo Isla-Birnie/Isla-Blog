@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy New Year"
 author: isla
-categories: [ autobiographical ]
+categories: [ contemplative ]
 image: assets/images/lantern.jpg
 comments: true
 ---
@@ -21,7 +21,7 @@ Not to mention in June I got to go on a missions trip with my mom to Ensenada, M
 
 In July we headed back to the USA to visit family for a few months. I went on a retreat with CCIC Cupertino, and was able to see so many of my friends that I met on the missions trip. 
 
-We returned to Mexico in October. My dad fixed our boat, repairing some of the systems and cleaning Nike. From there, we’ve been going South again, finally making our way to the beloved communities of Tenacatita and Barra de Navidad. Looking back on 2024 we had so many high points. There were definitely low points like removing our mast in early 2024, and the heat in October, but overall good triumphs, peace prospers, and happiness overflows. 
+We returned to Mexico in October. My dad fixed our boat, repairing some of the systems and cleaning Nike. From there, we’ve been going South again, finally making our way to the beloved communities of Tenacatita and Barra de Navidad. Looking back on 2024 we had many high points. There were definitely low points like removing our mast in early 2024, and the heat in October, but overall good triumphs, peace prospers, and happiness overflows. 
 
 So remember, for this new year, to trust God with your lantern. He will be with you through the lows and the highs forever and ever. 
 
