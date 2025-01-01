@@ -20,4 +20,5 @@ My parents fell in love with Nike. My mom said she could “see us doing our hom
 We moved onto our boat in the Spring of 2021. For about a year, we fixed all the problems that boats often have after sitting. We settled in, getting used to homeschooling on a boat, with limited space. The boat was ready just in time for the Baja Ha-ha that November, a cruisers rally heading down the coast of Baja California 
 
 I met so many friends along the way, and I had tons of fun that year. Thank you for reading, and I can’t wait to ‘see’ y’all next time!
+
 -Isla 

@@ -24,5 +24,6 @@ THE SURF BREAK. The Tenecatita surf break is absolutely perfect for beginners. I
 I hadn’t surfed since last February and my entire body was aching to hit the waves. This is one of my favorite parts of boat life and I have missed it so much. 
 
 What are some of your favorite sports? Do you have a favorite vacation spot?
+
 Your boat-friend,
 Isla
