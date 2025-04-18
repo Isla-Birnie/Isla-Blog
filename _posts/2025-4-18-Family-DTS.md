@@ -2,8 +2,8 @@
 layout: post
 title:  "Rancho Abierto"
 author: isla
-categories: [ autobiographical ]
-image: assets/images/cassandra.jpg
+categories: [ autobiographical, Rancho ]
+image: assets/images/Rancho_pic.jpg
 comments: true
 ---
 
