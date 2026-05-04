@@ -6,15 +6,16 @@ comments: true
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<div class="col-md-8 pr-5" markdown="1">
 
- Hi! I'm so glad you're here! My name is Isla Birnie. I love reading, writing, and art! 
+Hi! I'm so glad you're here! My name is Isla Birnie. I love reading, writing, and art! 
 
 Some of my favorite books are <em>The Summer We Forgot, A Thousand Heartbeats, Keeper of the Lost Cities, Anne of Green Gables, and Heidi.</em>
 
 I really started writing two years ago when I joined a writing class hosted by my moms friend. One of the assignments was to write a short story. That short story became my first real project, ending at fourteen pages. I almost immediately began a sequel to that story which I still have not finished. My current work in progress is a novel called <em>The School of Magical Arts &amp; Combat</em>. 
 
-While my art may not be masterpieces, I still love it all! I am currently obsessed with drawing people. They aren't very realistic, and it's really only the faces that look good, but they're fun anyway. I've also always enjoyed watercolor painting, specifically of ocean scenes or just nature in general. 
+While my art may not be masterpieces, I still love it all! I am currently obsessed with drawing people. They aren't very realistic, and it's really only the faces that look good, but they're fun anyway. I've also always enjoyed watercolor painting, specifically of ocean scenes or just nature in general.
+
 Your new friend,
 Isla :)
 
