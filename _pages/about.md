@@ -8,8 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-
-<p> Hi! I'm so glad you're here! My name is Isla Birnie. I love reading, writing, and art! 
+ Hi! I'm so glad you're here! My name is Isla Birnie. I love reading, writing, and art! 
 
 Some of my favorite books are <em>The Summer We Forgot, A Thousand Heartbeats, Keeper of the Lost Cities, Anne of Green Gables, and Heidi.</em>
 
@@ -18,7 +17,6 @@ I really started writing two years ago when I joined a writing class hosted by m
 While my art may not be masterpieces, I still love it all! I am currently obsessed with drawing people. They aren't very realistic, and it's really only the faces that look good, but they're fun anyway. I've also always enjoyed watercolor painting, specifically of ocean scenes or just nature in general. 
 Your new friend,
 Isla :)
-</p>
 
 </div>
 
