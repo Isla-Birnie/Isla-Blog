@@ -19,7 +19,7 @@ After that, we rolled right into the next speaker, Gary D. Schmidt. Some of his 
 Some of my main takeaways from the conference are:
 * Give people ‘hero stories’. Show them a hero who always tries, even when it seems hopeless. 
 * Write to bring beauty to the world. 
-* Let everything in your story have purpose. Don’t let any detail or side-story get dropped.
+* Let everything in your story have purpose. Don’t let any detail or side story get dropped.
 
 I truly enjoyed meeting other people passionate about writing–of all ages–and hearing such incredible speakers. What are some of the things you have learned lately? Have you read any books by these authors? What is your calling? I would love to hear from you in the comments section!
 
