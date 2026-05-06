@@ -3,7 +3,7 @@ layout: post
 title:  "HopeWords"
 author: isla
 categories: [ autobiographical ]
-image: assets/images/hopewords-isla.jpg
+image: assets/images/hopewords-isla2.jpg
 comments: true
 ---
 
