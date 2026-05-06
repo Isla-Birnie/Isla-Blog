@@ -16,8 +16,9 @@ The next lecture was early Saturday morning. Alexandra Davis spoke about picture
 
 After that, we rolled right into the next speaker, Gary D. Schmidt. Some of his books are: The Wednesday Wars, Okay For Now, Pay Attention Carter Jones, The Labors of Hercules Beal, and Just Like That. He is truly a phenomenal writer and speaker with not only amazing books, but also the ability to teach and hold a crowd's attention. He asked us whether writing is a calling, or a profession for us. If it’s only a profession, this is a terrible time to choose writing as a job. Many states no longer require a course in children’s literature in elementary schools. There are also 91 million functionally illiterate adults in America. If this is true, writing must be a calling for people to choose it. So then why are we called to write? He said that this world is a difficult place–that’s undeniable–and books show kids how to deal with that. How to cope. Stories are complex, just like the world, and yet so many of us love and cherish them. The job of a writer is to bring knowledge, beauty, wisdom, and understanding to the world. We show kids how people are supposed to act in a fallen world. How to be their best when so many others are at their worst. 
 
-* Some of my main takeaways from the conference are:
-* Give people ‘hero stories’. Show them a hero who always tries, even when it seems hopeless. Write to bring beauty to the world. 
+Some of my main takeaways from the conference are:
+* Give people ‘hero stories’. Show them a hero who always tries, even when it seems hopeless. 
+* Write to bring beauty to the world. 
 * Let everything in your story have purpose. Don’t let any detail or side-story get dropped.
 
 I truly enjoyed meeting other people passionate about writing–of all ages–and hearing such incredible speakers. What are some of the things you have learned lately? Have you read any books by these authors? What is your calling? I would love to hear from you in the comments section!
