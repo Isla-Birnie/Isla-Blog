@@ -4,6 +4,7 @@ title:  "HopeWords"
 author: isla
 categories: [ autobiographical ]
 image: assets/images/hopewords-isla2.jpg
+featured: true
 comments: true
 ---
 

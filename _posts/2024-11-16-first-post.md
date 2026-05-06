@@ -4,7 +4,7 @@ title:  "From Land to Sea"
 author: isla
 categories: [ autobiographical ]
 image: assets/images/isla.jpg
-featured: true
+featured: false
 comments: true
 ---
 
