@@ -70,6 +70,7 @@ The mom smiled. “Alright. You go on up, and I’ll hand you the cat carrier.�
 I stepped up on the ladder. Suddenly, it looked a lot taller. But then I looked up at the kitten, and I placed my foot on the first step. And then I stepped again. And again, until I was level with the kitten’s ledge.
 
 The mom handed me the cat carrier. I placed it gently on the ledge, trying to give the kitty space to crawl in. I waited. And waited. And waited. The kitten paced back and forth along the ledge, staring down at the people below. And then suddenly, she was in! I scooped up the carrier and handed it back down to the people below. 
+
 That was definitely not how I thought my walk to the cafe would go, but I would absolutely do it again! I love cats, and saving them is worth anything. I have to admit I was afraid while on the ladder, even though I’ve climbed things higher than that.
 
 What do you think of my story? Do you have any pets? I wish you all an amazing day, and I hope you have the opportunity to pet a cat today! 
